@@ -76,7 +76,12 @@ div {
 
 	.nav__responsive-a a{
 		padding: 6px 6px 3px 20px;
+		text-decoration: none;
 	}
+
+	.nav__responsive-a i {
+		padding-right: 5px;
+	} 
 
 	.nav__responsive-a > a {
 		display: block;
